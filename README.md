@@ -1,4 +1,28 @@
-# EDA-SURVEY
+# EXPLORATORY DATA ANALYSIS -SURVEY
+IN THIS PROJECT ON THE BASIS OF DATA SET FROM KAGGLE BELOW QUERIES ARE RESOLVED BY USING PYTHON & LIBRARIES COMMANDS: dala analysis, data clean up, data visualization tasks are completed. COMMANDS USED:-
+The commands that are used in the video -
+# head( )
+# unique ( )
+# nunique ( )
+# value_counts ( )
+# dtype
+# replace ( )
+# "inplace = True"
+# astype ( )
+# Filtering
+# Creating a new Column
+# copy ( )
+# insert ( )
+# Creating a new Dataframe
+# Concatenation (dataframes)
+# type ( )
+# Line Chart
+# figsize ( )
+# Pivot Table
+# Groupby
+# count ( )
+# Merge
+
 *In this project , dala analysis, data clean up and below exploration has been done
 1 - Load the dataset into a pandas dataframe. Name the variable as “survey”. 
 2 - How many samples were collected on each day? 
