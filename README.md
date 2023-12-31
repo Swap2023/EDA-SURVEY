@@ -1,4 +1,4 @@
-# EXPLORATORY DATA ANALYSIS -SURVEY
+# EXPLORATORY DATA ANALYSIS -SURVEY.
 IN THIS PROJECT ON THE BASIS OF DATA SET FROM KAGGLE BELOW QUERIES ARE RESOLVED BY USING PYTHON & LIBRARIES COMMANDS: dala analysis, data clean up, data visualization tasks are completed. COMMANDS USED:-
 The commands that are used in the video -
 # head( )
